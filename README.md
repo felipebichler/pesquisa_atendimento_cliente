@@ -1,0 +1,3 @@
+# Projeto – Pesquisa de atendimento ao cliente
+Este projeto em Python foi criado para praticar o ciclo **Entrada → Processamento →Saída**, além das **Estruturas de Repetição** **for** e **while**.
+O programa solicita o **nome** , **idade** e a **opinião** referente ao atendimento, podendo ser **1-Excelente**, **2-Bom** e **3-Ruim**. Ele calcula o **resultado** **parcial** e o **resultado** **final** da pesquisa ao serem entrevistados os 50 participantes.
